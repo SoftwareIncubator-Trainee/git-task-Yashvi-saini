@@ -5,12 +5,11 @@ I enjoy web development and I'm currently learning DSA in C++.
 Skills:
 - C++
 - Python
-- Web Development (HTML, CSS, JavaScript)
-- Data Analytics
+- Web Development (HTML, CSS)
+- Data Analytics(beginner)
 - Power BI (beginner)
 
 Hobbies:
-- Reading
-- Writing
-- Exploring new tech
-- Coding
+- sketching
+- dancing
+- photography
