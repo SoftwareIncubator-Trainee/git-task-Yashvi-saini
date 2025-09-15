@@ -1,0 +1,16 @@
+Hi, I'm Yashvi Saini.
+I am a data analytics enthusiast and Power BI beginner.
+I enjoy web development and I'm currently learning DSA in C++.
+
+Skills:
+- C++
+- Python
+- Web Development (HTML, CSS, JavaScript)
+- Data Analytics
+- Power BI (beginner)
+
+Hobbies:
+- Reading
+- Writing
+- Exploring new tech
+- Coding
